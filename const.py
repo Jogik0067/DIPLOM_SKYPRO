@@ -7,7 +7,7 @@ password = "GhbdtnVbh67"
 # Поиск UI
 year_s = '2010'
 kind_s = 'комедия'
-country_s = 'CCCР'
+country_s = 'СССР'
 
 # Настройки для API
 url_k = "https://api.kinopoisk.dev/v1.4/movie"
