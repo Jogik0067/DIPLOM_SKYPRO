@@ -27,4 +27,4 @@ UI: pytest -v --alluredir=allure-results test_ui.py
 
 Тест-план проекта "Кинопоиск"
 
-https://drive.google.com/file/d/1DrKFkLz0HYLLjHLGlOmnVLc7T9vUIAD3/view (PDF версия)
+https://drive.google.com/file/d/1ejsCx-Nz9kJTS1AqoisnQrSgwb4aFsJ5/view?usp=sharing (PDF версия)
